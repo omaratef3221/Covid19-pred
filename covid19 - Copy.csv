@@ -1,0 +1,185 @@
+,age,sex,province,country,date_onset_symptoms,date_admission_hospital,date_confirmation,symptoms,outcome
+18,,female,Beijing,China,08.01.2020,08.01.2020,21.01.2020,"fatigue, fever, headache",discharge
+55,44,female,Chongqing,China,15.01.2020,15.01.2020,21.01.2020,"fatigue, fever",discharge
+161,29,male,Guangxi,China,23.01.2020,23.01.2020,24.01.2020,discomfort,discharge
+175,,,Heilongjiang,China,,,24.01.2020,,death
+185,39,male,Hong Kong,China,21.01.2020,21.01.2020,22.01.2020,"cough, fever",death
+313,39,female,Yunnan,China,18.01.2020,22.01.2020,24.01.2020,"systemic weakness, runny nose, fever",discharge
+337,46,male,Zhejiang,China,04.01.2020,17.01.2020,21.01.2020,fever,discharge
+613,27,male,Qinghai,China,,23.01.2020,25.01.2020,,discharge
+639,30,female,Ile-de-France,France,23.01.2020,24.01.2020,24.01.2020,"chills, cough, fatigue, fever",discharge
+640,31,male,Ile-de-France,France,19.01.2020,24.01.2020,24.01.2020,"chills, conjunctivitis, cough, fever",discharge
+641,40,male,Tokyo,Japan,14.01.2020,20.01.2020,24.01.2020,"fever, pneumonia, sore throat",discharge
+642,30,male,Tokyo,Japan,03.01.2020,10.01.2020,15.01.2020,"cough, fever, sore throat",discharge
+647,32,male,,Nepal,09.01.2020,13.01.2020,24.01.2020,"cough, fever, shortness of breath",discharge
+652,55,male,,South Korea,10.01.2020,23.01.2020,24.01.2020,fever,discharge
+663,66,male,Khanh Hoa,Vietnam,17.01.2020,22.01.2020,23.01.2020,,discharge
+664,28,male,Khanh Hoa,Vietnam,20.01.2020,22.01.2020,23.01.2020,,discharge
+665,40,male,Johor,Malaysia,,,25.01.2020,"cough, fever",discharge
+671,51,male,Bangkok Metropolis,Thailand,20.01.2020,28.01.2020,,"cough, fever, myalgia",discharge
+676,56,male,Ontario,Canada,22.01.2020,23.01.2020,25.01.2020,,discharge
+1055,42,male,Qinghai,China,,24.01.2020,26.01.2020,,discharge
+1056,38,female,Qinghai,China,,24.01.2020,26.01.2020,,discharge
+1057,7,male,Qinghai,China,,24.01.2020,26.01.2020,,discharge
+1426,82,female,Gansu,China,,25.01.2020,27.01.2020,,death
+1427,,,Gansu,China,,,26.01.2020,,discharge
+1462,33,male,Bavaria,Germany,24.01.2020,,27.01.2020,"chills, fever, myalgias, sore throat",discharge
+1794,,female,Yunnan,China,23.01.2020,23.01.2020,27.01.2020,"fever, sore throat",discharge
+1848,81,male,Ile-de-France,France,,,28.01.2020,,death
+2436,36,,,United Arab Emirates,,25.01.2020,29.01.2020,,discharge
+2566,45,female,Osaka,Japan,20.01.2020,23.01.2020,29.01.2020,,discharge
+2569,4,female,,Malaysia,,,29.01.2020,,discharge
+2932,38,female,National Capital Region (NCR),Philippines,25.01.2020,,30.01.2020,,discharge
+2942,29,male,Vinh Phuc,Vietnam,,,30.01.2020,,discharge
+2943,23,female,Vinh Phuc,Vietnam,,,30.01.2020,,discharge
+2965,25,female,Thanh Hoa,Vietnam,,,30.01.2020,,discharge
+3197,,male,Lazio,Italy,,30.01.2020,31.01.2020,,discharge
+3198,,female,Lazio,Italy,,30.01.2020,31.01.2020,,discharge
+4052,31,male,,Singapore,28.01.2020,30.01.2020,30.01.2020,,discharge
+4053,47,female,,Singapore,30.01.2020,30.01.2020,31.01.2020,,discharge
+4088,,,Canary Islands,Spain,,,31.01.2020,,discharge
+4609,43,male,Qinghai,China,,26.01.2020,31.01.2020,,discharge
+4797,73,male,,Vietnam,26.01.2020,31.01.2020,02.02.2020,respiratory symptoms,discharge
+4798,25,female,Khanh Hoa,Vietnam,18.01.2020,27.01.2020,31.01.2020,"cough, fever",discharge
+4800,44,male,National Capital Region (NCR),Philippines,,,01.02.2020,"cough, sore throat",death
+4801,26,female,Ontario,Canada,24.01.2020,24.01.2020,31.01.2020,,discharge
+4831,31,female,,Singapore,30.01.2020,31.01.2020,01.02.2020,,discharge
+5050,73,female,Gansu,China,28.01.2020,31.01.2020,02.02.2020,fever,death
+5054,20,female,Gansu,China,26.01.2020,26.01.2020,02.02.2020,,discharge
+5059,94,female,Gansu,China,,30.01.2020,02.02.2020,,discharge
+5072,38,,Beijing,China,,,03.02.2020,,discharge
+5073,68,,Beijing,China,,,03.02.2020,,discharge
+5074,50,,Beijing,China,,,03.02.2020,,discharge
+5089,29,female,Vinh Phuc,Vietnam,,31.01.2020,03.02.2020,,discharge
+5526,52,female,Shaanxi,China,23.01.2020,25.01.2020,03.02.2020,,stable
+5527,47,female,Shaanxi,China,25.01.2020,28.01.2020,03.02.2020,,stable
+5528,54,male,Shaanxi,China,30.01.2020,29.01.2020,03.02.2020,,stable
+5529,50,male,Shaanxi,China,,31.01.2020,03.02.2020,,stable
+5530,50,male,Shaanxi,China,31.01.2020,31.01.2020,03.02.2020,,stable
+5689,35,female,Shaanxi,China,25.01.2020,31.01.2020,03.02.2020,,stable
+5690,37,female,Shaanxi,China,28.01.2020,28.01.2020,03.02.2020,,stable
+5691,24,male,Shaanxi,China,27.01.2020,27.01.2020,03.02.2020,,stable
+5692,50,female,Shaanxi,China,29.01.2020,30.01.2020,03.02.2020,,stable
+5693,76,female,Shaanxi,China,27.01.2020,27.01.2020,03.02.2020,,stable
+5694,38,male,Shaanxi,China,29.01.2020,30.01.2020,03.02.2020,,stable
+5695,47,male,Shaanxi,China,,,03.02.2020,lesions on chest radiographs,stable
+5852,63,male,Wilayah Persekutuan Kuala Lumpur,Malaysia,,,03.02.2020,,discharge
+5856,30,male,Vinh Phuc,Vietnam,,30.01.2020,03.02.2020,,discharge
+5857,28,female,,Singapore,29.01.2020,03.02.2020,03.02.2020,"fever, sore throat",discharge
+5862,32,female,,Singapore,30.01.2020,03.02.2020,04.02.2020,,discharge
+5871,42,female,Vinh Phuc,Vietnam,,,03.02.2020,,discharge
+5970,,,Anhui,China,,,04.02.2020,,stable
+6070,49,female,Vinh Phuc,Vietnam,03.02.2020,04.02.2020,06.02.2020,cough,discharge
+6071,16,female,Vinh Phuc,Vietnam,,04.02.2020,06.02.2020,"cough, fever",discharge
+6074,60,female,Cebu,Philippines,22.01.2020,,05.02.2020,,discharge
+6621,1,male,,Singapore,,,05.02.2020,,discharge
+6791,27,male,,Singapore,21.01.2020,06.02.2020,06.02.2020,,discharge
+7236,,,Qinghai,China,,05.02.2020,05.02.2020,,discharge
+7237,,,Qinghai,China,,04.02.2020,04.02.2020,,discharge
+7238,,,Qinghai,China,,04.02.2020,04.02.2020,,discharge
+8019,53,male,,Singapore,23.01.2020,01.02.2020,06.02.2020,,discharge
+8054,65,male,Shaanxi,China,03.02.2020,03.02.2020,07.02.2020,,stable
+8055,21,male,Shaanxi,China,28.01.2020,29.01.2020,07.02.2020,,stable
+8056,64,female,Shaanxi,China,31.01.2020,01.02.2020,07.02.2020,,stable
+8057,63,male,Shaanxi,China,31.01.2020,01.02.2020,07.02.2020,,stable
+8058,53,male,Shaanxi,China,,02.02.2020,07.02.2020,,stable
+8059,39,male,Shaanxi,China,03.02.2020,05.02.2020,07.02.2020,,stable
+8060,71,male,Shaanxi,China,03.02.2020,03.02.2020,07.02.2020,,stable
+8061,45,female,Shaanxi,China,,03.02.2020,07.02.2020,,stable
+8062,27,female,Shaanxi,China,28.01.2020,03.02.2020,07.02.2020,,stable
+8063,42,male,Shaanxi,China,30.01.2020,31.01.2020,07.02.2020,,stable
+8064,25,male,Shaanxi,China,07.02.2020,,07.02.2020,,stable
+8491,,,Beijing,China,,,16.02.2020,,discharge
+8627,1,female,Gansu,China,30.01.2020,07.02.2020,08.02.2020,diarrhea,discharge
+8889,87,male,Guizhou,China,,03.02.2020,08.02.2020,,stable
+8890,27,male,Guizhou,China,05.02.2020,,08.02.2020,"cough, fever, sputum",stable
+8891,4,female,Guizhou,China,,,08.02.2020,,stable
+8892,50,female,Guizhou,China,,,08.02.2020,,stable
+8893,39,female,Guizhou,China,,,08.02.2020,,stable
+8894,2,male,Guizhou,China,,,08.02.2020,,stable
+9372,67,female,Hong Kong,China,31.01.2020,12.02.2020,13.02.2020,"chills, cough, fever",stable
+9373,37,male,Hong Kong,China,08.02.2020,12.02.2020,13.02.2020,fever,stable
+9375,,male,Hong Kong,China,,,14.02.2020,,death
+9596,28,,Jiangsu,China,,,13.02.2020,,stable
+9597,51,,Jiangsu,China,,,13.02.2020,,stable
+9598,62,,Jiangsu,China,,,13.02.2020,,stable
+9599,49,,Jiangsu,China,,,13.02.2020,,stable
+9600,63,,Jiangsu,China,,,13.02.2020,,stable
+9601,54,,Jiangsu,China,,,13.02.2020,,stable
+9602,65,,Jiangsu,China,,,13.02.2020,,stable
+9603,41,,Jiangsu,China,,,13.02.2020,,stable
+9604,36,,Jiangsu,China,,,13.02.2020,,stable
+9605,72,,Jiangsu,China,,,13.02.2020,,stable
+9606,62,,Jiangsu,China,,,13.02.2020,,stable
+9607,80,,Jiangsu,China,,,13.02.2020,,stable
+9608,72,,Jiangsu,China,,,13.02.2020,,stable
+9609,36,,Jiangsu,China,,,13.02.2020,,stable
+9610,71,,Jiangsu,China,,,13.02.2020,,stable
+9611,25,,Jiangsu,China,,,13.02.2020,,stable
+9612,67,,Jiangsu,China,,,13.02.2020,,stable
+9613,26,,Jiangsu,China,,,13.02.2020,,stable
+9614,54,,Jiangsu,China,,,13.02.2020,,stable
+9615,65,,Jiangsu,China,,,13.02.2020,,stable
+9616,29,,Jiangsu,China,,,13.02.2020,,stable
+9617,41,,Jiangsu,China,,,13.02.2020,,stable
+9618,73,,Jiangsu,China,,,13.02.2020,,stable
+9687,70,,Jiangsu,China,,,14.02.2020,,stable
+9688,23,,Jiangsu,China,,,14.02.2020,,stable
+9689,21,,Jiangsu,China,,,14.02.2020,,stable
+9690,75,,Jiangsu,China,,,14.02.2020,,stable
+9691,56,,Jiangsu,China,,,14.02.2020,,stable
+9692,21,,Jiangsu,China,,,14.02.2020,,stable
+9693,32,,Jiangsu,China,,,14.02.2020,,stable
+9694,65,,Jiangsu,China,,,14.02.2020,,stable
+9695,45,,Jiangsu,China,,,14.02.2020,,stable
+9696,21,,Jiangsu,China,,,14.02.2020,,stable
+9697,25,,Jiangsu,China,,,14.02.2020,,stable
+9711,33,,Jiangsu,China,,,16.02.2020,,stable
+9712,65,,Jiangsu,China,,,16.02.2020,,stable
+9713,52,,Jiangsu,China,,,16.02.2020,,stable
+9714,26,,Jiangsu,China,,,16.02.2020,,stable
+9715,54,,Jiangsu,China,,,16.02.2020,,stable
+9716,62,,Jiangsu,China,,,16.02.2020,,stable
+9717,38,,Jiangsu,China,,,16.02.2020,,stable
+9718,47,,Jiangsu,China,,,16.02.2020,,stable
+9719,57,,Jiangsu,China,,,16.02.2020,,stable
+9964,,,Jilin,China,,03.02.2020,03.02.2020,,discharge
+10356,,male,Baleares,Spain,,,09.02.2020,,discharge
+10374,29,male,Emilia-Romagna,Italy,,,06.02.2020,"eye irritation, fever",discharge
+10619,29,female,Vinh Phuc,Vietnam,,,07.02.2020,,discharge
+10620,55,female,Vinh Phuc,Vietnam,04.02.2020,04.02.2020,09.02.2020,"fever, headache, runny nose",discharge
+10621,1,female,Vinh Phuc,Vietnam,06.02.2020,,11.02.2020,"cough, runny nose",discharge
+10622,50,male,Vinh Phuc,Vietnam,11.02.2020,,13.02.2020,transient fatigue,discharge
+10876,51,male,,Singapore,29.01.2020,06.02.2020,08.02.2020,,discharge
+10954,2,female,,Singapore,,07.02.2020,10.02.2020,,discharge
+10955,35,male,,Singapore,05.02.2020,09.02.2020,10.02.2020,,discharge
+10963,34,male,,Singapore,01.02.2020,10.02.2020,11.02.2020,,discharge
+10964,46,male,,Singapore,03.02.2020,10.02.2020,11.02.2020,,discharge
+10972,83,female,Kanagawa Prefecture,Japan,22.01.2020,01.02.2020,13.02.2020,"anorexia, fatigue",death
+10975,30,male,,Singapore,,,13.02.2020,,discharge
+10977,55,male,,Singapore,,,13.02.2020,,discharge
+10982,53,male,Hokkaido,Japan,31.01.2020,,14.02.2020,"cough, fever, malaise",discharge
+10984,61,male,,Singapore,07.02.2020,12.02.2020,14.02.2020,fever,discharge
+10987,44,female,,Singapore,09.02.2020,12.02.2020,14.02.2020,,discharge
+10990,61,female,,Singapore,,,14.02.2020,,discharge
+10993,70,male,Tokyo,Japan,,,14.02.2020,,stable
+10994,57,female,Tokyo,Japan,,,14.02.2020,,stable
+10995,,,,Egypt,,,14.02.2020,,stable
+10997,74,male,Wakayama Prefecture,Japan,01.02.2020,06.02.2020,14.02.2020,,severe
+11008,40,male,,Singapore,10.02.2020,14.02.2020,15.02.2020,,discharge
+11015,62,male,Taiwan,,27.01.2020,03.02.2020,15.02.2020,"cough, shortness of breath",death
+11017,43,male,,Singapore,09.02.2020,14.02.2020,15.02.2020,,discharge
+11025,35,male,,Singapore,,,17.02.2020,,discharge
+11192,,,Qom,Iran,,,19.02.2020,,death
+11193,,,Qom,Iran,,,19.02.2020,,death
+11219,77,female,Lombardia,Italy,,,21.02.2020,,death
+11220,78,male,Veneto,Italy,,,21.02.2020,,death
+11222,68,female,Lombardia,Italy,,,21.02.2020,,death
+11481,,,,Iran,,,22.02.2020,,death
+11511,32,male,,Singapore,,,21.02.2020,,discharge
+11516,,,Veneto,Italy,,,22.02.2020,,discharge
+11736,,,Gansu,China,,22.01.2020,25.01.2020,,discharge
+11737,33,female,Gansu,China,,23.01.2020,24.01.2020,,discharge
+11740,58,female,,Singapore,23.01.2020,18.02.2020,22.02.2020,,discharge
+11800,60,male,Ile-de-France,France,,,25.02.2020-26.02.2020,,death
+11801,,female,Ticino,Switzerland,,,25.02.2020,,discharge
